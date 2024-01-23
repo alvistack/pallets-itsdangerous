@@ -1,0 +1,5 @@
+python-itsdangerous source: file-without-copyright-information
+python-itsdangerous source: no-debian-changes
+python-itsdangerous source: source-contains-prebuilt-windows-binary
+python-itsdangerous source: source-is-missing
+python-itsdangerous source: source-package-encodes-python-version
